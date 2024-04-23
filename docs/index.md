@@ -6,14 +6,14 @@ A detailed overview of the code structure can be found in [NatSpec docs](natspec
 
 <img src="./graphs/vestingBase.svg">
 
-### MINVesting
+### MRLNVesting
 
 <img src="./graphs/minVesting.svg">
 
-### MINPrivateSwap
+### MRLNPrivateSwap
 
 <img src="./graphs/privateSwap.svg">
 
-### MINStrategicSale
+### MRLNStrategicSale
 
 <img src="./graphs/strategicSale.svg">
