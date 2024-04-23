@@ -1,4 +1,4 @@
-# MIN Token Project
+# MRLN Token Project
 
 MIN Token project is an ERC20 based vesting project.
 
@@ -6,7 +6,7 @@ MIN Token project is an ERC20 based vesting project.
 
 ### Project Overview
 
-On software level, MIN Token project is an ERC20 based vesting project. Given a tokenomics structure with Token Generation Events (TGE), cliff and vesting periods MIN Vesting contract will allow the vested release of MIN Token to defined addresses. These addresses will belong to project owners and will have different purposes. Two other contracts, MINPrivateSwap and MINStrategicSale will handle some amount of token sale defined in the tokenomics. Customers will be able to buy vested tokens from MINPrivateSwap at a set rate. When cliff ends and vesting period begins, customers should be able to release their tokens as they wish. MINStrategicSale will handle sales that project owners will make via legal agreements. These agreements will require the project owners to add the buyer’s address and bought amount as beneficiary to the smart contract.
+On software level, MRLN Token project is an ERC20 based vesting project. Given a tokenomics structure with Token Generation Events (TGE), cliff and vesting periods MIN Vesting contract will allow the vested release of MIN Token to defined addresses. These addresses will belong to project owners and will have different purposes. Two other contracts, MINPrivateSwap and MINStrategicSale will handle some amount of token sale defined in the tokenomics. Customers will be able to buy vested tokens from MINPrivateSwap at a set rate. When cliff ends and vesting period begins, customers should be able to release their tokens as they wish. MINStrategicSale will handle sales that project owners will make via legal agreements. These agreements will require the project owners to add the buyer’s address and bought amount as beneficiary to the smart contract.
 
 ### Functional, Technical Requirements
 
