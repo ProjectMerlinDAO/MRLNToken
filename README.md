@@ -23,7 +23,7 @@ Recommended Node version is 20.0.0 and above.
 $ git clone https://github.com/baltarifcan/MINToken.git
 
 # change working directory
-$ cd MINToken
+$ cd MRLNToken
 
 # install dependencies
 $ npm install
