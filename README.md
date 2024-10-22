@@ -89,6 +89,7 @@ To deploy the contracts, run the following command:
 
 ```bash
 npx hardhat run scripts/deploy.js --network <network_name>
+```
 
 ## Contract Interaction
 
@@ -96,6 +97,7 @@ Once the contracts are deployed, you can interact with them using the Hardhat co
 
 ```bash
 npx hardhat run scripts/interact.js --network <network_name>
+```
 
 ## Learn More
 
